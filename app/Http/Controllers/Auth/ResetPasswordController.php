@@ -5,7 +5,7 @@ namespace App\Http\Controllers\Auth;
 use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
 
-//SUPER COMENTARIO POR SNOWDEN MODERFUCKER
+//Esto es un comentario super serio, el primero por atom, despues de un beta 1.0
 class ResetPasswordController extends Controller
 {
     /*
